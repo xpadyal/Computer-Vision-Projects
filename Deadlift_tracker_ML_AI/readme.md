@@ -2,6 +2,8 @@
 
 This project is a real-time deadlift tracking application designed to help users maintain proper form during deadlifts by using computer vision and pose estimation. With features like automated rep counting, angle detection, and form feedback, it acts as a virtual fitness coach, providing live feedback on each rep to improve lifting performance.
 
+### View Project Video here: https://www.linkedin.com/posts/sahil-padyal_computervision-poseestimation-opencv-activity-7258541926239375360-OqFv?utm_source=share&utm_medium=member_desktop
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
